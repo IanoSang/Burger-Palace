@@ -81,3 +81,17 @@ button {
     text-align: center;
     border-radius: 25px;
 }
+.fastdelivery {
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    margin: 20px;
+    margin-right: 0px;
+    float: left;
+    width: 40%;
+    height: 200px;
+    flex: row;
+    text-align: center;
+    border-radius: 25px;
+}
