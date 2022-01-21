@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    font-family: "Nimbus Roman";
+}
+.bar{
+    background: linear-gradient(-76deg, rgb(255, 166, 0) 50%, white 50%);
+    flex-direction: column;
+
+}
