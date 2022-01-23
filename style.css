@@ -38,10 +38,6 @@ a{
     text-decoration:underline 8px solid#ff7300;
 }
 
-.icon{
-    font-family: Lobster;
-    font-size: 35px;
-}
 .firstdiv {
     display:flex;
     padding: 10px;
