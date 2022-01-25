@@ -1,5 +1,11 @@
 # Burger-Palace
-This is a website of for ordering and delivering Burgers  
+This is a website of for ordering and delivering Burgers
+# TABLE
+| NAME | COUNTY | GENDER |
+| ------ | ------ |------|
+|IAN SANG|NAIROBI|MALE|
+|HANAN IBRAHIM |NAIROBI|FEMALE|
+|JOYLENE  |ELDORE|FEMALE|
 # Live Link
 https://ianosang.github.io/Burger-Palace/
 #### By **Ian Sang**
